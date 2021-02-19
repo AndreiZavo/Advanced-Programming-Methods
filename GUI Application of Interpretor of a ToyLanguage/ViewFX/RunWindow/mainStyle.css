@@ -1,0 +1,9 @@
+.root{
+    background-color: #284578;
+
+}
+
+#stepByStepButton {
+    -fx-background-color: linear-gradient(#DC9656, #AB4642);
+    -fx-background-radius: 10pt;
+}

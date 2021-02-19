@@ -1,0 +1,21 @@
+#showButton{
+    -fx-font-family: "Agency FB";
+    -fx-font-size: 20;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#DC9656, #AB4642);
+    -fx-background-radius: 10pt;
+}
+
+#showButton:hover{
+    -fx-text-fill: linear-gradient(#DC9656, #AB4642);
+    -fx-background-color: black;
+}
+
+#exerciseListView.list-cell{
+    -fx-alignment: center;
+}
+
+#exerciseListView:cell-selection{
+    -fx-background-color: black;
+}
